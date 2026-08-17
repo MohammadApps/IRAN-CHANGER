@@ -12,7 +12,6 @@ Download the latest version from the **Releases** section:
 
 **v1.0.0 Beta**
 
-این نسخه در حال توسعه است و ممکن است در نسخه‌های آینده قابلیت‌ها و بهینه‌سازی‌های بیشتری اضافه شود.
 ###
 
 ### ⚡ Windows Network & DNS Monitor
