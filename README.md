@@ -42,17 +42,6 @@ Download the latest version from the **Releases** section:
 - 🪟 برنامه اختصاصی ویندوز
 - 🎨 رابط کاربری مدرن
 
-## 📥 Download
-
-Download the latest version from the **Releases** section:
-
-👉 [Download Latest Release](../../releases/latest)
-
-## 🧪 Current Version
-
-**v1.0.0 Beta**
-
-این نسخه در حال توسعه است و ممکن است در نسخه‌های آینده قابلیت‌ها و بهینه‌سازی‌های بیشتری اضافه شود.
 
 ## 🛠️ Bug Reports
 
