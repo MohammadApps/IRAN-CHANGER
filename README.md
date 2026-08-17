@@ -3,15 +3,15 @@
 
 
 
- ##📥 Download
+ 📥 Download
 
-##Download the latest version from the **Releases** section:
+Download the latest version from the **Releases** section:
 
-###👉 [Download Latest Release](../../releases/latest)
+👉 [Download Latest Release](../../releases/latest)
 
- ##🧪 Current Version
+ 🧪 Current Version
 
-##**v1.0.0 Beta**
+**v1.0.0 Beta**
 
 
 
