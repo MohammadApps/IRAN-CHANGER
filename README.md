@@ -7,7 +7,7 @@
 
 ##Download the latest version from the **Releases** section:
 
-##👉 [Download Latest Release](../../releases/latest)
+###👉 [Download Latest Release](../../releases/latest)
 
  ##🧪 Current Version
 
