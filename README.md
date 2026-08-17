@@ -2,7 +2,7 @@
 
 ### ⚡ Windows Network & DNS Monitor
 
-![IRAN CHANGER](banner.png)
+ChatGPT Image Aug 17, 2026, 05_30_45 AM.png
 
 **IRAN CHANGER** is a lightweight Windows application for monitoring your internet connection, checking ping, and managing DNS settings through a modern interface.
 
