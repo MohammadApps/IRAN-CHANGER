@@ -2,7 +2,7 @@
 
 
 
-
+####
  📥 Download
 
 Download the latest version from the **Releases** section:
@@ -13,7 +13,7 @@ Download the latest version from the **Releases** section:
 
 **v1.0.0 Beta**
 
-###
+################
 
 
 
